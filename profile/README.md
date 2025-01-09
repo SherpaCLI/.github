@@ -4,7 +4,7 @@ Welcome to the expedition. We have no idea how it will end, but the ride is anno
 
 ## Docs Website
 
-For more details about what Sh:erpa is or is not, more about the available commands, features and syntax, check [sherpa-basecamp.netlify.app](https://sherpa-basecamp.netlify.app).
+For more details about Sh:erpa, the available commands, features and syntax, check [sherpa-basecamp.netlify.app](https://sherpa-basecamp.netlify.app).
 
 ## Discord Server
 
