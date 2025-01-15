@@ -2,7 +2,7 @@
 
 Welcome to the expedition. We have no idea how it will end, but the ride is announced to be epic :)
 
-This is just an organisation account so I could regroup my related repositories concerning Sh:erpa.
+> Just an organisation account so I could regroup my related repositories concerning Sh:erpa, and facilitate the navigation. _—AndiKod—_
 
 ## Docs Website
 
