@@ -19,5 +19,3 @@ The first release, v0.1.0-alpha was pushed today (Jan9), a few little things are
 Some BashBoxes and little Libs plus Tests will follow, to serve as exemples of what can be done and encourage everybody to create and share their own BashBox.
 
 ...see you on Discord.
-
-_—AndiKod—_
