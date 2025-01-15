@@ -1,6 +1,6 @@
 # Sh:erpa
 
-Welcome to the expedition. We have no idea how it will end, but the ride is announced to be epic :)
+Welcome to the expedition. Have no idea how it will end, but the ride promiss to be epic :)
 
 > Just an organisation account so I could regroup my related repositories concerning Sh:erpa, and facilitate the navigation. _—AndiKod—_
 
