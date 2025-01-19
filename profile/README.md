@@ -1,12 +1,10 @@
 # Sh:erpa
 
-Welcome to the expedition. Have no idea how it will end, but the ride promiss to be epic :)
-
 > Just an organisation account so I could regroup my related repositories concerning Sh:erpa, and facilitate the navigation. _—AndiKod—_
 
 ## Docs Website
 
-For more details about Sh:erpa, the available commands, features and syntax, check [sherpa-basecamp.netlify.app](https://sherpa-basecamp.netlify.app).
+For more details about Sh:erpa, the available commands, features and syntax, check [sherpa-cli.netlify.app](https://sherpa-cli.netlify.app).
 
 ## Discord Server
 
