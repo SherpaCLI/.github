@@ -1,6 +1,6 @@
 # Sh:erpa
 
-> Just an organisation account so I could regroup my related repositories concerning Sh:erpa, and facilitate the navigation. _—AndiKod—_
+
 
 ## Docs Website
 
